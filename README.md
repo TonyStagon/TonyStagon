@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Athur Maatlane<br><br><br><br>💻 I'm currently working on React projects and exploring Puppeteer for smart automation tasks.<br>🧠 I'm currently learning Next.js and improving my backend integration skills.<br>💬 Ask me about web development, Kotlin mobile apps, or creative coding projects.<br>🎯 Fun fact: I can spend hours tweaking UI animations just to make them feel right.
+Hi there 👋 I'm Athur Maatlane<br><br><br><br>💻 I'm currently working on React projects and exploring Puppeteer for smart automation tasks.<br>🧠 I'm constantly  learning new tools  .<br>💬 Ask me about web development, Kotlin/flutter/react native mobile apps, or creative coding projects.<br>🎯 Fun fact: I can spend hours tweaking UI animations just to make them feel right.
 
 
 ## 🌐 Socials:
