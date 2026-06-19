@@ -15,7 +15,7 @@ Hi there 👋 I'm Athur Maatlane<br><br><br><br>💻 I'm currently working on Re
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo.
 ![](https://github-contributor-stats.vercel.app/api?username=TonyStagon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
